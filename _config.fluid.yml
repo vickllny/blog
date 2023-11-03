@@ -1,0 +1,19 @@
+title: "花开富贵，长命百岁"
+subtitle: ''
+description: ''
+keywords:
+author: vickllny
+language: zh-CN
+timezone: ''
+navbar:
+  blog_title: "花开富贵，长命百岁"
+index:
+  slogan:
+    enable: true
+  text: "Please type your slogan here."
+  api:
+    enable: true
+    url: "https://v1.hitokoto.cn/"
+    method: "GET"
+    headers: {}
+    keys: ["hitokoto"]
